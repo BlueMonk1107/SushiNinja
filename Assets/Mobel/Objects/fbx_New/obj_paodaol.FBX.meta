@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 6dbcb5efa8ced6249a82ad336544746f
+timeCreated: 1486949055
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dym_shuzhuanga
+    100002: e_guang02
+    100004: obj_beijinga
+    100006: obj_caoa
+    100008: obj_dimaina
+    100010: obj_fangzia
+    100012: //RootNode
+    100014: obj_paodaol
+    100016: obj_paodaor
+    100018: obj_shana
+    100020: obj_shanb
+    100022: obj_shangaila
+    100024: obj_shangaira
+    100026: obj_shugana
+    100028: obj_shuganb
+    100030: obj_shuganc
+    100032: obj_shuzhuanga
+    100034: obj_shuzhuangb
+    100036: obj_shuzhuangc
+    100038: obj_yezib
+    100040: obj_yezic
+    100042: obj_yezid
+    100044: obj_yezie
+    100046: obj_yezif
+    100048: obj_yezila
+    100050: obj_yezira
+    100052: obj_yuanjingshua
+    100054: obj_yuna
+    100056: Plane001
+    100058: shoulijianrrrr
+    100060: shoulijianrrrr 1
+    400000: Dym_shuzhuanga
+    400002: e_guang02
+    400004: obj_beijinga
+    400006: obj_caoa
+    400008: obj_dimaina
+    400010: obj_fangzia
+    400012: //RootNode
+    400014: obj_paodaol
+    400016: obj_paodaor
+    400018: obj_shana
+    400020: obj_shanb
+    400022: obj_shangaila
+    400024: obj_shangaira
+    400026: obj_shugana
+    400028: obj_shuganb
+    400030: obj_shuganc
+    400032: obj_shuzhuanga
+    400034: obj_shuzhuangb
+    400036: obj_shuzhuangc
+    400038: obj_yezib
+    400040: obj_yezic
+    400042: obj_yezid
+    400044: obj_yezie
+    400046: obj_yezif
+    400048: obj_yezila
+    400050: obj_yezira
+    400052: obj_yuanjingshua
+    400054: obj_yuna
+    400056: Plane001
+    400058: shoulijianrrrr
+    400060: shoulijianrrrr 1
+    2300000: Dym_shuzhuanga
+    2300002: e_guang02
+    2300004: obj_beijinga
+    2300006: obj_caoa
+    2300008: obj_dimaina
+    2300010: obj_fangzia
+    2300012: obj_paodaol
+    2300014: obj_paodaor
+    2300016: obj_shana
+    2300018: obj_shanb
+    2300020: obj_shangaila
+    2300022: obj_shangaira
+    2300024: obj_shugana
+    2300026: obj_shuganb
+    2300028: obj_shuganc
+    2300030: obj_shuzhuanga
+    2300032: obj_shuzhuangb
+    2300034: obj_shuzhuangc
+    2300036: obj_yezib
+    2300038: obj_yezic
+    2300040: obj_yezid
+    2300042: obj_yezie
+    2300044: obj_yezif
+    2300046: obj_yezila
+    2300048: obj_yezira
+    2300050: obj_yuanjingshua
+    2300052: obj_yuna
+    2300054: Plane001
+    2300056: shoulijianrrrr
+    2300058: shoulijianrrrr 1
+    2300060: //RootNode
+    3300000: Dym_shuzhuanga
+    3300002: e_guang02
+    3300004: obj_beijinga
+    3300006: obj_caoa
+    3300008: obj_dimaina
+    3300010: obj_fangzia
+    3300012: obj_paodaol
+    3300014: obj_paodaor
+    3300016: obj_shana
+    3300018: obj_shanb
+    3300020: obj_shangaila
+    3300022: obj_shangaira
+    3300024: obj_shugana
+    3300026: obj_shuganb
+    3300028: obj_shuganc
+    3300030: obj_shuzhuanga
+    3300032: obj_shuzhuangb
+    3300034: obj_shuzhuangc
+    3300036: obj_yezib
+    3300038: obj_yezic
+    3300040: obj_yezid
+    3300042: obj_yezie
+    3300044: obj_yezif
+    3300046: obj_yezila
+    3300048: obj_yezira
+    3300050: obj_yuanjingshua
+    3300052: obj_yuna
+    3300054: Plane001
+    3300056: shoulijianrrrr
+    3300058: shoulijianrrrr 1
+    3300060: //RootNode
+    4300000: obj_dimaina
+    4300002: obj_yuna
+    4300004: obj_beijinga
+    4300006: obj_fangzia
+    4300008: obj_shuzhuangc
+    4300010: obj_shangaira
+    4300012: obj_shangaila
+    4300014: obj_yezila
+    4300016: obj_yezira
+    4300018: obj_shuzhuangb
+    4300020: Dym_shuzhuanga
+    4300022: obj_shuzhuanga
+    4300024: shoulijianrrrr
+    4300026: obj_caoa
+    4300028: obj_shana
+    4300030: obj_shanb
+    4300032: obj_shugana
+    4300034: obj_shuganb
+    4300036: obj_shuganc
+    4300038: obj_yezid
+    4300040: obj_yezif
+    4300042: obj_yezie
+    4300044: obj_yuanjingshua
+    4300046: obj_yezib
+    4300048: obj_yezic
+    4300050: shoulijianrrrr
+    4300052: Plane001
+    4300054: e_guang02
+    4300056: obj_paodaol
+    4300058: obj_paodaor
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

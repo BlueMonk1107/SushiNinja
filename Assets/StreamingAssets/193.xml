@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<root>
+  <gameObject objectName="WideWallCollider (2)" objectAsset="WideWallCollider">
+    <transform>
+      <position x="3.034421" y="5770.231" z="1.278822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="19" />
+      <colliderCenter x="-0.3173246" y="12.11174" z="-1.840723E-06" />
+      <colliderSize x="1" y="29.11077" z="1" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shengzi (46)" objectAsset="Obj_shengzi">
+    <transform>
+      <position x="3.610421" y="5786.001" z="1.159822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shudong01 (2)" objectAsset="Obj_shudong01">
+    <transform>
+      <position x="3.604483" y="5781.121" z="0.885911" />
+      <rotation x="0" y="244.1042" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (23)" objectAsset="shoulijian">
+    <transform>
+      <position x="0.2799997" y="5777.921" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Dyidongdangban2 (6)" objectAsset="Dyidongdangban2">
+    <transform>
+      <position x="-4.570158" y="5775.105" z="1.104792" />
+      <rotation x="0" y="180" z="0" />
+      <scale x="-1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="10" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shudong01" objectAsset="Obj_shudong01">
+    <transform>
+      <position x="-3.695517" y="5760.891" z="0.5859127" />
+      <rotation x="0" y="148.0544" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="li (10)" objectAsset="shoulijian">
+    <transform>
+      <position x="-0.5" y="5764.941" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Missile (11)" objectAsset="Missile">
+    <transform>
+      <position x="2.391548" y="5774.125" z="0.9501562" />
+      <rotation x="270.0198" y="0" z="0" />
+      <scale x="-0.5976814" y="-0.6160063" z="-0.4372868" />
+      <Tag tag="Obstacle" />
+      <Layer layer="14" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="huolongguo (12)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.42" y="5761.471" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (24)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.88" y="5781.861" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (17)" objectAsset="shoulijian">
+    <transform>
+      <position x="0.6500001" y="5766.421" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_mogu01" objectAsset="Obj_mogu01">
+    <transform>
+      <position x="3.470533" y="5768.541" z="0.9499931" />
+      <rotation x="2.504479E-06" y="133.7529" z="-9.159998E-13" />
+      <scale x="0.7475736" y="0.7475736" z="0.7475736" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (25)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.88" y="5782.721" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Dyidongdangban2 (4)" objectAsset="Dyidongdangban2">
+    <transform>
+      <position x="4.639842" y="5762.566" z="1.104792" />
+      <rotation x="0" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="10" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="huolongguo (9)" objectAsset="shoulijian">
+    <transform>
+      <position x="1.74" y="5760.441" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Dyidongdangban2 (5)" objectAsset="Dyidongdangban2">
+    <transform>
+      <position x="-4.560158" y="5766.706" z="1.104792" />
+      <rotation x="0" y="180" z="0" />
+      <scale x="-1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="10" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="item-burst" objectAsset="item-burst">
+    <transform>
+      <position x="-0.06869316" y="5787.384" z="0.9599991" />
+      <rotation x="300" y="90.00002" z="270" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="SuperMan" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (18)" objectAsset="shoulijian">
+    <transform>
+      <position x="-1.87" y="5772.501" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_tengwan06" objectAsset="Obj_tengwan06">
+    <transform>
+      <position x="0.4849253" y="5774.901" z="4.108732" />
+      <rotation x="2.504479E-06" y="309.6507" z="1.017778E-13" />
+      <scale x="2.419346" y="2.419348" z="2.419347" />
+      <Tag tag="Untagged" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_tengwan03 (2)" objectAsset="Obj_tengwan03">
+    <transform>
+      <position x="3.33" y="5774.101" z="1.24" />
+      <rotation x="2.504477E-06" y="272.2552" z="1.323111E-12" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shugan (3)" objectAsset="obj_paodaol">
+    <transform>
+      <position x="-3.256914" y="5786.191" z="1.108825" />
+      <rotation x="-90" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="8" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Missile (12)" objectAsset="Missile">
+    <transform>
+      <position x="-2.748452" y="5780.804" z="0.9501562" />
+      <rotation x="270.0198" y="0" z="0" />
+      <scale x="-0.5976814" y="-0.6160063" z="-0.4372868" />
+      <Tag tag="Obstacle" />
+      <Layer layer="14" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="li (11)" objectAsset="shoulijian">
+    <transform>
+      <position x="0.6400003" y="5765.201" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (20)" objectAsset="shoulijian">
+    <transform>
+      <position x="0.3499999" y="5773.001" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_tengwan03 (11)" objectAsset="Obj_tengwan03">
+    <transform>
+      <position x="-4.25" y="5778.641" z="0.3999996" />
+      <rotation x="2.504486E-06" y="186.8904" z="1.310388E-12" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shengzi (49)" objectAsset="Obj_shengzi">
+    <transform>
+      <position x="3.610421" y="5772.881" z="1.159822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (19)" objectAsset="shoulijian">
+    <transform>
+      <position x="2.34" y="5775.701" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (16)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.93" y="5771.401" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (21)" objectAsset="shoulijian">
+    <transform>
+      <position x="2.34" y="5777.491" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shengzi (47)" objectAsset="Obj_shengzi">
+    <transform>
+      <position x="3.610421" y="5780.171" z="1.159822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shengzi (45)" objectAsset="Obj_shengzi">
+    <transform>
+      <position x="3.610421" y="5783.231" z="1.159822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (14)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.93" y="5769.701" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (21)" objectAsset="shoulijian">
+    <transform>
+      <position x="1.45" y="5773.241" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (23)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.88" y="5781.001" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_zhangai02 (46)" objectAsset="obj_zhangaira_wujin">
+    <transform>
+      <position x="3.184421" y="5778.631" z="1.238822" />
+      <rotation x="0" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="9" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (25)" objectAsset="shoulijian">
+    <transform>
+      <position x="-1.98" y="5778.391" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_zhangai02 (41)" objectAsset="obj_zhangaira_wujin">
+    <transform>
+      <position x="3.184421" y="5785.881" z="1.238822" />
+      <rotation x="0" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="9" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="li (8)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.73" y="5764.401" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (22)" objectAsset="shoulijian">
+    <transform>
+      <position x="1.35" y="5777.721" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (18)" objectAsset="shoulijian">
+    <transform>
+      <position x="0.6500001" y="5767.411" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (29)" objectAsset="shoulijian">
+    <transform>
+      <position x="2.22" y="5787.711" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Dyidongdangban2 (7)" objectAsset="Dyidongdangban2">
+    <transform>
+      <position x="-4.570158" y="5788.056" z="1.104792" />
+      <rotation x="0" y="180" z="0" />
+      <scale x="-1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="10" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (24)" objectAsset="shoulijian">
+    <transform>
+      <position x="-0.8499999" y="5778.151" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (19)" objectAsset="shoulijian">
+    <transform>
+      <position x="-0.79" y="5772.781" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (17)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.93" y="5772.221" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (26)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.44" y="5786.151" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="chengzi (15)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.93" y="5770.541" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (28)" objectAsset="shoulijian">
+    <transform>
+      <position x="1.18" y="5787.361" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_mogu03" objectAsset="Obj_mogu03">
+    <transform>
+      <position x="3.944483" y="5775.131" z="0.6659107" />
+      <rotation x="2.504477E-06" y="111.7041" z="-1.017777E-13" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="huolongguo (10)" objectAsset="shoulijian">
+    <transform>
+      <position x="0.3299999" y="5760.781" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (20)" objectAsset="shoulijian">
+    <transform>
+      <position x="2.34" y="5776.601" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Dyidongdangban2 (3)" objectAsset="Dyidongdangban2">
+    <transform>
+      <position x="-4.600158" y="5758.996" z="1.104792" />
+      <rotation x="0" y="180" z="0" />
+      <scale x="-1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="10" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shugan (1)" objectAsset="obj_paodaor">
+    <transform>
+      <position x="3.383086" y="5762.161" z="1.108822" />
+      <rotation x="-90" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="8" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (22)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.88" y="5780.161" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_zhangai02 (44)" objectAsset="obj_zhangaira_wujin">
+    <transform>
+      <position x="3.184421" y="5782.281" z="1.238822" />
+      <rotation x="0" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="9" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shengzi (50)" objectAsset="Obj_shengzi">
+    <transform>
+      <position x="3.610421" y="5769.341" z="1.159822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (18)" objectAsset="shoulijian">
+    <transform>
+      <position x="2.34" y="5774.781" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (21)" objectAsset="shoulijian">
+    <transform>
+      <position x="-2.88" y="5779.281" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shugan (1)" objectAsset="obj_paodaol">
+    <transform>
+      <position x="-3.256914" y="5762.171" z="1.108825" />
+      <rotation x="-90" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Left" />
+      <Layer layer="8" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shugan (2)" objectAsset="obj_paodaor">
+    <transform>
+      <position x="3.383086" y="5786.221" z="1.108822" />
+      <rotation x="-90" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="8" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_zhangai02 (49)" objectAsset="obj_zhangaira_wujin">
+    <transform>
+      <position x="3.184421" y="5767.801" z="1.238822" />
+      <rotation x="0" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="9" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="li (9)" objectAsset="shoulijian">
+    <transform>
+      <position x="-1.57" y="5764.661" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (20)" objectAsset="shoulijian">
+    <transform>
+      <position x="-1.76" y="5768.231" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_zhangai02 (48)" objectAsset="obj_zhangaira_wujin">
+    <transform>
+      <position x="3.184421" y="5771.341" z="1.238822" />
+      <rotation x="0" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="9" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (27)" objectAsset="shoulijian">
+    <transform>
+      <position x="-1.34" y="5786.561" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_mogu01 (2)" objectAsset="Obj_mogu01">
+    <transform>
+      <position x="-3.588517" y="5778.261" z="0.6759129" />
+      <rotation x="2.504479E-06" y="69.80627" z="1.323111E-12" />
+      <scale x="0.7475736" y="0.7475736" z="0.7475736" />
+      <Tag tag="Left" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="pingguo (19)" objectAsset="shoulijian">
+    <transform>
+      <position x="-0.46" y="5767.841" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="shuimitao (17)" objectAsset="shoulijian">
+    <transform>
+      <position x="2.34" y="5773.911" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_shengzi (48)" objectAsset="Obj_shengzi">
+    <transform>
+      <position x="3.610421" y="5776.521" z="1.159822" />
+      <rotation x="2.504478E-06" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_mogu01 (1)" objectAsset="Obj_mogu01">
+    <transform>
+      <position x="-3.695516" y="5774.941" z="1.975913" />
+      <rotation x="2.504481E-06" y="2.227784" z="2.449027E-13" />
+      <scale x="0.7475737" y="0.7475736" z="0.7475737" />
+      <Tag tag="Untagged" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_zhangai02 (47)" objectAsset="obj_zhangaira_wujin">
+    <transform>
+      <position x="3.184421" y="5774.981" z="1.238822" />
+      <rotation x="0" y="-90" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="9" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="Obj_tengwan03 (3)" objectAsset="Obj_tengwan03">
+    <transform>
+      <position x="3.33" y="5787.061" z="1.24" />
+      <rotation x="2.504477E-06" y="272.2552" z="1.323111E-12" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Right" />
+      <Layer layer="0" />
+    </transform>
+  </gameObject>
+  <gameObject objectName="huolongguo (11)" objectAsset="shoulijian">
+    <transform>
+      <position x="-1.04" y="5761.131" z="1" />
+      <rotation x="90" y="180" z="0" />
+      <scale x="1" y="1" z="1" />
+      <Tag tag="Untagged" />
+      <Layer layer="13" />
+    </transform>
+  </gameObject>
+</root>

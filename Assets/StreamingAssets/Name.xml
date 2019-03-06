@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<root>
+  <obj_paodaol />
+  <obj_paodaor />
+  <Obj_tengwan03 />
+  <Obj_shengzi />
+  <shoulijian />
+  <Obj_guozi01 />
+  <Obj_lvye04 />
+  <Obj_tengwan02 />
+  <Obstacle_zhangai />
+  <WideWallCollider />
+  <Obj_tengwan01 />
+  <obj_zhangaila_wujin />
+  <obj_zhangaira_wujin />
+  <Obstacle_zhangai01 />
+  <Obj_tengwan05 />
+  <Missile />
+  <Obj_shuzhi01 />
+  <Obj_lingzhi01 />
+  <item-dash />
+  <Obj_mogu01 />
+  <item-shield />
+  <Obj_mogu03 />
+  <Obj_tengwan04 />
+  <Obj_shuzhi02 />
+  <Obj_shudong01 />
+  <Obj_mogu02 />
+  <item-change />
+  <Obj_tengwan06 />
+  <Dyn_tanhuang />
+  <Obj_shudong02 />
+  <item-magnet />
+  <item-burst />
+  <Dyn_zhangai001 />
+  <Dyidongdangban2 />
+</root>
